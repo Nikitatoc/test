@@ -1,0 +1,19 @@
+.button{
+    margin: 30% 0 0 50%;
+    background-color: #03ab3b;
+    border-radius: 30px;
+    padding: 1% 1% 1% 1%;
+    color: white;
+    border:none ;
+}
+.button:hover{
+    background-color: #034d1c;
+    border: 2px solid black ;
+}
+#number{
+    margin: 30% 0 0 50%;
+    padding: 1% 1% 1% 1%;
+}
+#margin{
+    margin:1% 0 0 50% ;
+}
