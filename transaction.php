@@ -62,3 +62,6 @@ $transaction = [
 
 $list=$_POST['transaction'];
 echo json_encode($transaction[$list-1]);
+
+//echo '<pre>';
+//print_r($transaction[$list-1]);
